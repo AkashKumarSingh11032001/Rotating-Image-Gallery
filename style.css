@@ -19,8 +19,10 @@ body{
     position: relative;
     width: 200px;
     height: 200px;
+    /* roller effect */
     transform-style: preserve-3d;
     transform: perspective(1000px) rotateY(0deg);
+    transition: transform 0.7s;
 
 }
 
