@@ -1,4 +1,4 @@
-body {
+body{
     margin: 0;
     display: flex;
     flex-direction: column;
@@ -6,6 +6,9 @@ body {
     align-items: center; 
     /* images to center */
     text-align: center;
+    /* all items to center */
     height: 100vh;
     justify-content: center;
+
+    background-color: black;
 }
