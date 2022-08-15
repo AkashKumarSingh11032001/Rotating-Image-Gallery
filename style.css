@@ -11,4 +11,6 @@ body{
     justify-content: center;
 
     background-color: black;
+    /* scrolbar hidden */
+    overflow: hidden;
 }
