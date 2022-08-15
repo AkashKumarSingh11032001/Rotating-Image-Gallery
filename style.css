@@ -28,6 +28,15 @@ body{
     position: absolute;
     top: 0;
     left: 0;
+    width: 100%;
     transform: rotateY(calc(var(--i)*45deg)) translateZ(400px);
+}
+
+.image-container span img {
+    /* image center */
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
 }
 
