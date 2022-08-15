@@ -10,5 +10,5 @@ prevBtnEle.addEventListener("click", () => {
 });
 
 function updateGallery() {
-    imageContainerEle.style.transform = `perspective(1000px) rotateY(${x}deg)`;
+    imageContainerEle.style.transform=`perspective(1000px) rotateY(${x}deg)`;
 }
