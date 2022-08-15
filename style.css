@@ -6,4 +6,6 @@ body {
     align-items: center; 
     /* images to center */
     text-align: center;
+    height: 100vh;
+    justify-content: center;
 }
